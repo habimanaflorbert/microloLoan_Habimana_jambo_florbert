@@ -9,17 +9,15 @@
 
 **Prerequisites:**
 
-* [Required software 1] [link]
+* python 3 installed 
 
-* [Required software 2] [link]
 
 
 
 **Installation:**
 
-1. Clone this repository: `git clone https://github.com/username/project-name.git`
+1. Clone this repository: `https://github.com/habimanaflorbert/microloLoan_Habimana_jambo_florbert`
 
-2. Navigate to the project directory: `cd project-name`
 
 3. Install dependencies: `pip install -r requirements.txt` 
 
@@ -38,10 +36,3 @@ To run the test cases:
 * `Python manage.py test`
 
 
-
-
-**Example usage:**
-
-```jpython
-
-// Code example demonstrating how to use the project
